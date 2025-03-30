@@ -18,8 +18,8 @@ We Care adalah sebuah platform berbasis web yang memungkinkan pengguna untuk mel
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/reynaldiarya/We-Care.git
-cd We-Care
+git clone https://github.com/novalbahri17/donasi-online
+cd donasi-online
 ```
 
 ### 2. Instal Dependensi
